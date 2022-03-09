@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, i'm [Abdullahi Abdulkabir](https://abdullahiabdulkabir.github.io/), a software engineer specializing in backend development with PHP/Laravel. I also do frontend project on demand and do a little bit of DevOps while working on some projects. I am a community person, I learn alot from the tech communities and also give back to the community. 
+Hi, I'm [Abdullahi Abdulkabir](https://abdullahiabdulkabir.github.io/), a software engineer specializing in backend development with PHP/Laravel. I also do frontend project on demand and do a little bit of DevOps while working on some projects. I am a community person, I learn alot from the tech communities and also give back to the community. 
 
 - Co-organizer, [@gdgojofestac](https://gdg.community.dev/gdg-ojo-festac/)
 - Microsoft [Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/49321)
@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 - Frameworks: Laravel, Nodejs.
 ## 🔥 Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahiabdulkabir&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahiabdulkabir&show_icons=true)
