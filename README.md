@@ -12,7 +12,7 @@
 
 <br />
 
-hi, i'm [Abdullahi Abdulkabir](https://abdullahiabdulkabir.github.io/), a software engineer specializing in backend development with PHP/Laravel. I also do frontend project on demand and do a little bit of DevOps while deploying my code. I am a community person, I learn alot from the tech communities and also give back to the community. 
+Hi, i'm [Abdullahi Abdulkabir](https://abdullahiabdulkabir.github.io/), a software engineer specializing in backend development with PHP/Laravel. I also do frontend project on demand and do a little bit of DevOps while working on some projects. I am a community person, I learn alot from the tech communities and also give back to the community. 
 
 - Co-organizer, [@gdgojofestac](https://gdg.community.dev/gdg-ojo-festac/)
 - I became a Microsoft Learn Student Ambassador
