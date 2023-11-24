@@ -1,10 +1,10 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/abdullahi-abdulkabir/">
-  <img align="left" alt="Abdullahi's LinkedIn" width="22px" src="" />
+  <img align="left" alt="LinkedIn" width="22px" src="" />
 </a>
 <a href="https://www.instagram.com/abdullahiabdulkabir/">
-  <img align="left" alt="Abdullahi's Instagram" width="22px" src="" />
+  <img align="left" alt="Instagram" width="22px" src="" />
 </a>
 <a href="https://twitter.com/abdullahicap">
   <img align="left" alt="Abdullahi Abdulkabir | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
